@@ -1,0 +1,36 @@
+{
+  "name": "generator-markup-source",
+  "version": "1.0.0",
+  "description": "This is generator using yeoman for markup source",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nguyen-rk/generator-markup-source.git"
+  },
+  "keywords": [
+    "yeoman-generator",
+    "javascript",
+    "builder",
+    "scaffold",
+    "generator",
+    "ri",
+    "markup"
+  ],
+  "author": "RI",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nguyen-rk/generator-markup-source/issues"
+  },
+  "homepage": "https://github.com/nguyen-rk/generator-markup-source#readme",
+  "devDependencies": {
+    "decamelize": "^2.0.0",
+    "uppercamelcase": "^3.0.0",
+    "yeoman-generator": "^3.1.1"
+  },
+  "files": [
+    "app"
+  ]
+}
